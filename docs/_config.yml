@@ -1,7 +1,7 @@
-repository: {user}/{lib_name}
+repository: fs2013/fafs_hello
 output: web
-topnav_title: {lib_name}
-site_title: {lib_name}
+topnav_title: fafs_hello
+site_title: fafs_hello
 company_name: FS llc
 description: A tutorial project nbdev by fafs
 # Set to false to disable KaTeX math
